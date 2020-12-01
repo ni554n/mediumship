@@ -1,4 +1,4 @@
-![mediumship icon](extension/icons/icon48.png)
+![mediumship icon](assets/icon.png)
 
 # Mediumship
 
